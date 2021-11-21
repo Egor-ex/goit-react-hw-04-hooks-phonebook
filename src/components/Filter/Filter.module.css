@@ -1,0 +1,7 @@
+.Filter {
+	display: block;
+}
+
+.Filter:not(:last-child) {
+	margin-bottom: 15px;
+}
