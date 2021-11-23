@@ -1,4 +1,4 @@
-import "./App.module.css";
+import "./App.css";
 import { Phonebook } from "./components/Phonebook/Phonebook";
 
 function App() {
